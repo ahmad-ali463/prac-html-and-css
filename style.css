@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.ali a{
+text-decoration: none;
+padding: 10px;
+color: black;
+
+
+
+
+}
+.ali{
+    background-color: aqua;
+    padding: 10px;
+}
+
+
+.all{
+    font-weight: bold;
+}
+.ss{
+    float: right;
+}
